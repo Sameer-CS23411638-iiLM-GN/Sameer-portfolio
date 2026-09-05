@@ -1,5 +1,7 @@
 # Sameer — Developer Portfolio
 
+<img width="1530" height="957" alt="image" src="https://github.com/user-attachments/assets/98dbed64-0b7b-42a1-ab4f-106cd6dd877e" />
+
 <p align="center">
   <img src="./public/favicon.ico" alt="Portfolio Logo" width="80" />
 </p>
