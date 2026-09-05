@@ -1,10 +1,16 @@
 # Sameer — Developer Portfolio
+<img width="1663" height="933" alt="Screenshot 2026-09-05 155527" src="https://github.com/user-attachments/assets/974c002b-b135-44cf-be96-77e9051bda95" />
 
-<img width="1530" height="957" alt="image" src="https://github.com/user-attachments/assets/98dbed64-0b7b-42a1-ab4f-106cd6dd877e" />
+<img width="1562" height="927" alt="Screenshot 2026-09-05 155549" src="https://github.com/user-attachments/assets/32184901-23a4-47bb-93d4-6c6c7e66a9c7" />
 
-<p align="center">
-  <img src="./public/favicon.ico" alt="Portfolio Logo" width="80" />
-</p>
+<img width="1547" height="957" alt="Screenshot 2026-09-05 155602" src="https://github.com/user-attachments/assets/0e02cd3f-4d76-4d3d-9a80-2b091ff5620f" />
+
+<img width="1317" height="951" alt="Screenshot 2026-09-05 155610" src="https://github.com/user-attachments/assets/e206ad76-1bbd-465c-86d6-a3e46caab8f2" />
+
+<img width="1782" height="968" alt="Screenshot 2026-09-05 155627" src="https://github.com/user-attachments/assets/e48ee2cc-9bfa-43a5-9eea-e148febde4ca" />
+
+<img width="1530" height="957" alt="Screenshot 2026-09-05 155642" src="https://github.com/user-attachments/assets/7ddd7d89-dcaf-4ae7-b741-3daeaa1cb677" />
+
 
 <p align="center">
   <strong>Personal Developer Portfolio</strong>
